@@ -1,0 +1,58 @@
+{
+    "GOODS" :[
+        {   "id":"1",
+            "name" : "macbook Laptop",
+            "price" : 215000,
+            "description" : "macbook Air",
+            "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfmLWIhHriz3jtRRo4Lc9PAd1SjRoFYfOg6LIJ_QYMg&s",
+            "merchant" : "Amos",
+            "idnumber" : "37875822"
+        },   
+        {    "id":"2",
+            "name": "samsung tv",
+            "price": 103000,
+            "description": "a 65-inch samsung tv",
+            "image": "https://brimax.co.ke/wp-content/uploads/2024/03/65CU7000-.jpg",
+            "merchant" : "Steven",
+            "idnumber" : "39498940"
+        },   
+        {    "id":"3",
+            "name": "clothes",
+            "price" : "varies according to the type of wear a customer chooses",
+            "description": "we deal with clothes that originate from the LC WAIKIKI company",
+            "image": "https://img-lcwaikiki.mncdn.com/mnresize/400/-/pim/productimages/20232/6478130/v2/l_20232-w32406z8-rdv-100-82-97-187_a1.jpg",
+            "merchant" : "Lydya",
+            "idnumber" : "42378758"
+        },   
+         {
+            "id":"4",
+            "name":"Toys",
+            "price ":"Depends on type",
+            "description": "Kids playing toys",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-282140,resizemode-75,msid-88403805/news/how-to/why-kids-should-not-have-lots-of-toys-and-what-to-do-if-yours-have-too-many.jpg",
+            "merchant" : "Mary",
+            "idnumber" : "567487738"
+        },   
+        {
+            "id":"5",
+            "name": "Grocery",
+            "price" : "varies according to the type a customer chooses",
+            "description": "we deal with groceries that originate from the grocery store",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-mowrwFHd7Az385r11Rr_qOC_AiCckyM8XZAw-QVNfw&s",
+            "merchant" : "Sharon",
+            "idnumber" : "623747637"
+        },   
+        {
+                "id": "6",
+                "name": "Diamond Necklace",
+                "price": 150000,
+                "description": "An exquisite diamond necklace featuring flawless diamonds set in 18k white gold.",
+                "image": "https://vijayandsons.com/cdn/shop/products/IMG-20220416-WA0060.jpg?v=1650269748",
+                "merchant" : "Julias",
+                "idnumber" : "5675676567"
+            } 
+            
+        
+       
+    ]
+}
